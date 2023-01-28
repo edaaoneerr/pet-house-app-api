@@ -11,8 +11,8 @@ const getUsers = (req, res) => {
     });
   };
   const getUserById = (req, res) => {
-    const  user_id = req.params.id;
-    pool.query(queries.getUserById, [user_id], (err, result) => {
+    const  id = req.params.id;
+    pool.query(queries.getUserById, [id], (err, result) => {
       if (err) throw (err);
         res.json(result.rows);
       
