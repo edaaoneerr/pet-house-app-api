@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edanur Öner</h1>
 <h3 align="center">A passionate React Native / mobile app developer from Turkiye</h3>
 
-- 🔭 I’m currently working on pet-house-app-api](https://github.com/edaaoneerr/pet-house-app-api)
+- 🔭 I’m currently working on [pet-house-app-api](https://github.com/edaaoneerr/pet-house-app-api)
 
 - 🌱 I’m currently learning **React, Kotlin, Java, Docker**
 
